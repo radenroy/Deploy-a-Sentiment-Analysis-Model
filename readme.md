@@ -1,1 +1,4 @@
-Construct a recurrent neural network for the purpose of determining the sentiment of a movie review using the IMDB data set. You will create this model using Amazon's SageMaker service and deploy the model and construct a simple web app which will interact with the deployed model.
+# Sentiment Analysis Web App
+## Using PyTorch and SageMaker
+
+Construct a recurrent neural network to determine the sentiment of a movie review using the IMDB data set. The model is created and deployed using Amazon's SageMaker service and can interact with a simple web app.
